@@ -7,10 +7,10 @@ Hello, I'm Hassan. This is our project for the 4th semester, Our project revolve
 The Rolex app provides comprehensive information on various Rolex categories and models, such as Analog, Digital, Men’s, Women’s, and Couple Watches. The app ensures easy navigation with neatly organized products within their respective categories.
 
 ## Project Components:
-1 Folder. Admin Panel folder
-2 Folder. Database folder (utilizing PHP)
-3 Folder. Documentation 
-4 Folder. Application built on Flutter and Dart
+- **1 Folder.** Admin Panel folder.
+- **2 Folder.** Database folder (utilizing PHP).
+- **3 Folder.** Documentation.
+- **4 Folder.** Application built on Flutter and Dart
 
 ## Admin Panel:
 An admin panel is included for professional purposes:
